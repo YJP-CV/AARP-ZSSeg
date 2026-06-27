@@ -760,3 +760,33 @@ a:focus {
 }
 
 
+.figure-section {
+  background-color: #f7f9fc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-top: 1px solid #e5e9f0;
+}
+
+.title-line {
+  width: 70px;
+  height: 4px;
+  background: linear-gradient(90deg, #f093fb, #f5576c);
+  margin: 0 auto 35px auto;
+  border-radius: 2px;
+}
+
+.figure-card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 35px;
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+.figure-card img {
+  width: 100%;
+  max-width: 1000px;
+}
+
+
+
