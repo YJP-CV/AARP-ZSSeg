@@ -141,13 +141,4 @@ $(document).ready(function() {
 
 })
 
-.abstract-image {
-  margin-top: 30px;
-  text-align: center;
-}
 
-.abstract-image img {
-  width: 72%;
-  max-width: 820px;
-  min-width: 600px;
-}
