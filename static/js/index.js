@@ -143,11 +143,11 @@ $(document).ready(function() {
 
 .abstract-image {
   margin-top: 30px;
-  margin-bottom: 20px;
+  text-align: center;
 }
 
 .abstract-image img {
-  width: 85%;
-  max-width: 900px;
+  width: 72%;
+  max-width: 820px;
+  min-width: 600px;
 }
-
