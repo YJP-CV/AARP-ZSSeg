@@ -787,6 +787,14 @@ a:focus {
   width: 100%;
   max-width: 1000px;
 }
+.figure-section {
+  background-color: #f7f9fc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
 
+.figure-section + .figure-section {
+  border-top: 1px solid #dfe6ef;
+}
 
 
